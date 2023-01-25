@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/">
+
+  <foaf:PersonalProfileDocument rdf:about="http://localhost/TUBES-WS/biodata.rdf">
+    <rdfs:label>KELOMPOK 8 WEB SEMANTIK</rdfs:label>
+    <foaf:maker rdf:resource="http:http://localhost/TUBES-WS/"/>
+    <foaf:primaryTopic rdf:resource="http://localhost/TUBES-WS/"/>
+  </foaf:PersonalProfileDocument>
+
+  <foaf:Person rdf:about="http://localhost/TUBES-WS/">
+     <foaf:Name1>Nadia Sofia</foaf:Name1>
+     <foaf:NIM1>211402005</foaf:NIM1>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://localhost/TUBES-WS/">
+     <foaf:Name2>Karina Angela</foaf:Name2>
+     <foaf:NIM2>211402041</foaf:NIM2>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://localhost/TUBES-WS/">
+     <foaf:Name3>Rafael Daniel</foaf:Name3>
+     <foaf:NIM3>211402050</foaf:NIM3>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://localhost/TUBES-WS/">
+     <foaf:Name4>Abigail Gloria</foaf:Name4>
+     <foaf:NIM4>211402065</foaf:NIM4>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://localhost/TUBES-WS/">
+     <foaf:Name5>Filza Rizky</foaf:Name5>
+     <foaf:NIM5>211402146</foaf:NIM5>
+  </foaf:Person>
+  
+</rdf:RDF>
